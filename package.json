@@ -1,6 +1,6 @@
 {
-  "name": "everyauth",
-  "description": "Auth solution (password, facebook, & more) for your node.js Connect & Express apps",
+  "name": "everyauth-goellan",
+  "description": "Everyauth forked with working github authentication",
   "version": "0.2.32",
   "homepage": "https://github.com/bnoguchi/everyauth/",
   "repository": {
